@@ -67,10 +67,10 @@ StudentPerformanceFactors/
 
 ## Key Features
 
-✨ **Comprehensive Model Comparison**: Side-by-side evaluation of Traditional ML vs Deep Learning approaches  
-📊 **Extensive Data Analysis**: Exploratory data analysis with correlation analysis (numerical and categorical variables)  
-🎯 **Multiple Evaluation Metrics**: RMSE, MAE, R² Score, and custom Accuracy (±2 points tolerance)  
-📈 **Visualization Suite**: 14+ professional plots including feature importance, learning curves, and model comparisons  
+✨ **Comprehensive Model Comparison**: Side-by-side evaluation of Traditional ML vs Deep Learning approaches
+📊 **Extensive Data Analysis**: Exploratory data analysis with correlation analysis (numerical and categorical variables)
+🎯 **Multiple Evaluation Metrics**: RMSE, MAE, R² Score, and custom Accuracy (±2 points tolerance)
+📈 **Visualization Suite**: 14+ professional plots including feature importance, learning curves, and model comparisons
 🔬 **Advanced Techniques**: Includes Cramér's V for categorical associations and correlation ratio (η) analysis
 
 ## Getting Started
